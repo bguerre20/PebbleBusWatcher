@@ -6,7 +6,7 @@ var main = new UI.Card({
   title: '   Bus Watcher',
   icon: 'images/bus_icon.png',
   subtitle: '',
-  body: ' - Top for Stop 1\n - Bottom for\n   Stop 2'
+  body: ' - Top for Apt.\n - Bottom for\n   Campus'
 });
 
 fetchBusTime1();
